@@ -6,5 +6,5 @@
 
 ### 目录
 
-- [PHP类](https://github.com/kyour-cn/Single/blob/master/php/Db) -原生Db类封装，快速用于项目开发
+- [PHP类](https://github.com/kyour-cn/Single/tree/main/php/Db) -原生Db类封装，快速用于项目开发
 -
